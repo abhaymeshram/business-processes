@@ -6,7 +6,7 @@
   <artifactId>business-processes</artifactId>
   <version>1.0</version>
   <packaging>kjar</packaging>
-  <name>business-processes</name>
+  <name>business-processes_</name>
   <repositories>
     <repository>
       <id>guvnor-m2-repo</id>
